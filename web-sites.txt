@@ -1,0 +1,10 @@
+http://google.com
+http://youtube.com
+http://facebook.com
+http://instagram.com
+http://netflix.com
+http://amazon.com
+http://twitter.com
+http://wikipedia.org
+http://reddit.com
+http://linkedin.com
